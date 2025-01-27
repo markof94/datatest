@@ -1,5 +1,5 @@
 {
-  "client_id": "https://api.mindstudio.ai/bluesky-client-metadata.json",
+  "client_id": "https://raw.githubusercontent.com/markof94/datatest/refs/heads/main/blueskymetadatatest",
   "client_name": "MindStudio",
   "redirect_uris": [
     "http://127.0.0.1:3000/integrations/oauth/redeem/bluesky"
